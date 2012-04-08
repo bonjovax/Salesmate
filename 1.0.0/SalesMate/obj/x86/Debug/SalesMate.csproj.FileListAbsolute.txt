@@ -1,0 +1,47 @@
+D:\C.C++ Programming\Client\SalesMate\SalesMate\bin\Debug\SalesMate.exe
+D:\C.C++ Programming\Client\SalesMate\SalesMate\bin\Debug\SalesMate.pdb
+D:\C.C++ Programming\Client\SalesMate\SalesMate\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\C.C++ Programming\Client\SalesMate\SalesMate\obj\x86\Debug\SalesMate.Properties.Resources.resources
+D:\C.C++ Programming\Client\SalesMate\SalesMate\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\C.C++ Programming\Client\SalesMate\SalesMate\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\C.C++ Programming\Client\SalesMate\SalesMate\obj\x86\Debug\SalesMate.exe
+D:\C.C++ Programming\Client\SalesMate\SalesMate\obj\x86\Debug\SalesMate.pdb
+D:\C.C++ Programming\Client\SalesMate\SalesMate\obj\x86\Debug\SalesMate.frmLogin.resources
+D:\C#\Client\SalesMate\SalesMate\obj\x86\Debug\SalesMate.exe
+D:\C#\Client\SalesMate\SalesMate\obj\x86\Debug\SalesMate.pdb
+D:\C#\Client\SalesMate\SalesMate\bin\Debug\SalesMate.exe
+D:\C#\Client\SalesMate\SalesMate\bin\Debug\SalesMate.pdb
+D:\C#\Client\SalesMate\SalesMate\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\C#\Client\SalesMate\SalesMate\obj\x86\Debug\SalesMate.frmLogin.resources
+D:\C#\Client\SalesMate\SalesMate\obj\x86\Debug\SalesMate.Properties.Resources.resources
+D:\C#\Client\SalesMate\SalesMate\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\C#\Client\SalesMate\SalesMate\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\C#\Client\SalesMate\SalesMate\obj\x86\Debug\SalesMate.frmMain.resources
+D:\C#\Client\SalesMate\SalesMate\obj\x86\Debug\SalesMate.frmChangePass.resources
+D:\C#\Client\SalesMate\SalesMate\obj\x86\Debug\SalesMate.frmTender.resources
+D:\C#\Client\SalesMate\SalesMate\obj\x86\Debug\SalesMate.frmSwipe.resources
+D:\C#\Client\SalesMate\SalesMate\obj\x86\Debug\SalesMate.frmEditProfile.resources
+D:\C#\Client\SalesMate\SalesMate\obj\x86\Debug\SalesMate.frmIcos.resources
+D:\C#\Client\SalesMate\SalesMate\obj\x86\Debug\SalesMate.frmTwentyP.resources
+D:\C#\Client\SalesMate\SalesMate\obj\x86\Debug\SalesMate.frmNoSale.resources
+D:\C#\Client\SalesMate\SalesMate\obj\x86\Debug\SalesMate.frmAuthP.resources
+D:\C#\Client\SalesMate\SalesMate\obj\x86\Debug\SalesMate.frmCustAcct.resources
+D:\C#\Client\SalesMate - ACDC\SalesMate\bin\Debug\SalesMate.exe
+D:\C#\Client\SalesMate - ACDC\SalesMate\bin\Debug\SalesMate.pdb
+D:\C#\Client\SalesMate - ACDC\SalesMate\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\C#\Client\SalesMate - ACDC\SalesMate\obj\x86\Debug\SalesMate.frmAuthP.resources
+D:\C#\Client\SalesMate - ACDC\SalesMate\obj\x86\Debug\SalesMate.frmIcos.resources
+D:\C#\Client\SalesMate - ACDC\SalesMate\obj\x86\Debug\SalesMate.frmNoSale.resources
+D:\C#\Client\SalesMate - ACDC\SalesMate\obj\x86\Debug\SalesMate.frmTender.resources
+D:\C#\Client\SalesMate - ACDC\SalesMate\obj\x86\Debug\SalesMate.frmLogin.resources
+D:\C#\Client\SalesMate - ACDC\SalesMate\obj\x86\Debug\SalesMate.frmMain.resources
+D:\C#\Client\SalesMate - ACDC\SalesMate\obj\x86\Debug\SalesMate.frmTwentyP.resources
+D:\C#\Client\SalesMate - ACDC\SalesMate\obj\x86\Debug\SalesMate.Properties.Resources.resources
+D:\C#\Client\SalesMate - ACDC\SalesMate\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\C#\Client\SalesMate - ACDC\SalesMate\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\C#\Client\SalesMate - ACDC\SalesMate\obj\x86\Debug\SalesMate.exe
+D:\C#\Client\SalesMate - ACDC\SalesMate\obj\x86\Debug\SalesMate.pdb
+D:\C#\Client\SalesMate - ACDC\SalesMate\obj\x86\Debug\SalesMate.frmCheck.resources
+D:\C#\Client\SalesMate - ACDC\SalesMate\obj\x86\Debug\SalesMate.frmAccountP.resources
+D:\C#\Client\SalesMate - ACDC\SalesMate\bin\Debug\SalesMate.exe.config
+D:\C#\Client\SalesMate - ACDC\SalesMate\obj\x86\Debug\SalesMate.frmPriceLookUp.resources

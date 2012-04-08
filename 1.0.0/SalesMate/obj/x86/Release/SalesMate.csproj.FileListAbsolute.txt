@@ -1,0 +1,17 @@
+D:\C#\Client\SalesMate\SalesMate\bin\Release\SalesMate.exe
+D:\C#\Client\SalesMate\SalesMate\bin\Release\SalesMate.pdb
+D:\C#\Client\SalesMate\SalesMate\obj\x86\Release\ResolveAssemblyReference.cache
+D:\C#\Client\SalesMate\SalesMate\obj\x86\Release\SalesMate.frmLogin.resources
+D:\C#\Client\SalesMate\SalesMate\obj\x86\Release\SalesMate.frmMain.resources
+D:\C#\Client\SalesMate\SalesMate\obj\x86\Release\SalesMate.Properties.Resources.resources
+D:\C#\Client\SalesMate\SalesMate\obj\x86\Release\GenerateResource.read.1.tlog
+D:\C#\Client\SalesMate\SalesMate\obj\x86\Release\GenerateResource.write.1.tlog
+D:\C#\Client\SalesMate\SalesMate\obj\x86\Release\SalesMate.exe
+D:\C#\Client\SalesMate\SalesMate\obj\x86\Release\SalesMate.pdb
+D:\C#\Client\SalesMate\SalesMate\obj\x86\Release\SalesMate.frmIcos.resources
+D:\C#\Client\SalesMate\SalesMate\obj\x86\Release\SalesMate.frmEditProfile.resources
+D:\C#\Client\SalesMate\SalesMate\obj\x86\Release\SalesMate.frmSwipe.resources
+D:\C#\Client\SalesMate\SalesMate\obj\x86\Release\SalesMate.frmTender.resources
+D:\C#\Client\SalesMate\SalesMate\obj\x86\Release\SalesMate.frmChangePass.resources
+D:\C#\Client\SalesMate - ACDC\SalesMate\obj\x86\Release\SalesMate.exe
+D:\C#\Client\SalesMate - ACDC\SalesMate\obj\x86\Release\SalesMate.pdb
