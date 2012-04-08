@@ -1,6 +1,28 @@
-CREATED ON 4/08/2012
-by: Alfel Benvic Go
+SalesMate 
+Created by: Alfel Benvic Go (BSIT-4) & Manuel III Gotardo (BSIT-4)
+CCS417 (Software Project)
+Cebu Institute of Technology - University
+College of Computer Studies
+Client: AC/DC Component Parts Sales & Service Center Inc.
 
-Salesmate is written in C#
 
-Please E-mail me if you have suggestions and furthur question at (DLG.alfel@gmail.com)
+
+SalesMate
+==========
+
+Version 1.0.0
+  - GUI Design and Implementation with Company Logo
+  - Login Authentication Implemented under User.cs (User Class)
+  - Select ListView Events Implemented on Items Costing Form and Account Panel Form
+  - CRUD Implementation on Items and Costing
+  - CRUD Implementation on Account Panel
+  
+Version 1.0.1
+  - Changes in User.cs (User Class) Cleanups
+  - Under Userclass, bool isAdmin() is implemented and FIXED
+  - Changes on the Login Form Design
+  - Price Look Up (Price Search) form implemented.
+  - File Structure Implementation on DAL(Data Access Layer) where Items.cs and User.cs Dwelt
+  - Project File Structure Implementation on UI (User Interface) where all Forms Dwelt
+  - Main Class (Program.cs) Remains
+  - Database File Included (salesmate.sql) Use MySQL 5.5.14 and Above
