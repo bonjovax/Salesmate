@@ -9,8 +9,8 @@ namespace SalesMate
 {
     class Items
     {
-        private int plu;
-        private string description;
+        private Int32 plu;
+        private String description;
         private float price;
         static String conString = "server=localhost;User Id=root;password=root;database=salesmate";
         MySqlConnection con = new MySqlConnection();
@@ -22,18 +22,18 @@ namespace SalesMate
             //
         }
 
-        public Items(int plu)
+        public Items(Int32 plu)
         {
             this.plu = plu;
         }
 
-        public Items(int plu, string description)
+        public Items(Int32 plu, string description)
         {
             this.plu = plu;
             this.description = description;
         }
 
-        public Items(int plu, string description, float price)
+        public Items(Int32 plu, string description, float price)
         {
             this.plu = plu;
             this.description = description;
@@ -76,7 +76,7 @@ namespace SalesMate
             }
         }
 
-        public void addItem(int plu, string description, float price)
+        public void addItem(Int32 plu, string description, float price)
         {
             con.ConnectionString = conString;
             String sql = "INSERT INTO cashieritem (plu, description, price) VALUES";
@@ -95,7 +95,7 @@ namespace SalesMate
             }
         }
 
-        public void updateItem(int plu, string description, float price)
+        public void updateItem(Int32 plu, string description, float price)
         {
             con.ConnectionString = conString;
             String sql = "UPDATE cashieritem SET description='" + description + "', price=" + price + "";
@@ -113,7 +113,7 @@ namespace SalesMate
             }
         }
 
-        public void deleteItem(int plu)
+        public void deleteItem(Int32 plu)
         {
             con.ConnectionString = conString;
             String sql = "DELETE FROM cashieritem WHERE plu=" + plu + ";";

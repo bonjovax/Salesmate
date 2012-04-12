@@ -33,9 +33,9 @@ namespace SalesMate
         private void KeyEnterLogin()
         {
             User u = new User(txtBoxCashierUser.Text);
-            try
-            {
-                if (u.isAuth(txtBoxCashierUser.Text.Trim(), txtBoxPass.Text))
+            //try
+           // {
+                if (u.isAuth(txtBoxCashierUser.Text.Trim(), txtBoxPass.Text.Trim()))
                 {
                     currentUser = u;
                     this.Hide();
@@ -48,11 +48,11 @@ namespace SalesMate
                 }
                 else
                     result = MessageBox.Show("Username and Password Incorrect or Not Completed", "Login Error", btn, MessageBoxIcon.Error);
-            }
-            catch (Exception)
-            {
-                result = MessageBox.Show(loginpop, caption, btn, icon);
-            }
+            //}
+            //catch (Exception)
+            //{
+              //  result = MessageBox.Show(loginpop, caption, btn, icon);
+           // }
         }
 
         public void clearText()

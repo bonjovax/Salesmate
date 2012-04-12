@@ -93,6 +93,10 @@ namespace SalesMate
         //isAuthenticated
         public bool isAuth(String cashieruser, String cashierpass)
         {
+            /* 1' or 'ab'='a' 'b (type in your username and password)
+             * Security Issue occured at April 12, 2012 */
+            cashieruser = cashieruser.Replace("''", ""); //Suggested by: Sir Russel Beceril
+            cashierpass = cashierpass.Replace("''","");  //Suggested by: Sir Russel Beceril
             bool IsAuth = false;
             con.ConnectionString = conString;
             String sql = "SELECT * FROM cashieraccount WHERE cashieruser='" + cashieruser + "' AND cashierpass='" + cashierpass + "'";
@@ -101,16 +105,14 @@ namespace SalesMate
                 con.Open();
                 MySqlCommand cmd = new MySqlCommand(sql, con);
                 cmd.CommandType = CommandType.Text;
-                cmd.ExecuteScalar();
                 MySqlDataReader rdr = cmd.ExecuteReader();
                 if (rdr.Read())
-                {   
+                {
                     IsAuth = true;
                 }
                 else
                     IsAuth = false;
             }
-
             finally
             {
                 con.Close();

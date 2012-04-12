@@ -54,6 +54,7 @@
             this.txtLookPLU.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.txtLookPLU.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtLookPLU.Location = new System.Drawing.Point(98, 12);
+            this.txtLookPLU.MaxLength = 10000;
             this.txtLookPLU.Name = "txtLookPLU";
             this.txtLookPLU.Size = new System.Drawing.Size(276, 35);
             this.txtLookPLU.TabIndex = 1;

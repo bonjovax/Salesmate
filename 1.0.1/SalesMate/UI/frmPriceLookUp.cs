@@ -49,8 +49,12 @@ namespace SalesMate
             }
             catch (Exception)
             {
-                txtLookItemDes.Text = "Not Found";
+                txtLookItemDes.Text = "No Item(s) Found";
                 txtLookPrice.Text = "0.00";
+                if (txtLookPLU.Text == "")
+                {
+                    clearTextBoxes();
+                }
                 con.Close();
             }
         }
