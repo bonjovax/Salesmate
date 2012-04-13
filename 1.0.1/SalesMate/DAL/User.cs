@@ -96,7 +96,7 @@ namespace SalesMate
             /* 1' or 'ab'='a' 'b (type in your username and password)
              * Security Issue occured at April 12, 2012 */
             cashieruser = cashieruser.Replace("''", ""); //Suggested by: Sir Russel Beceril
-            cashierpass = cashierpass.Replace("''","");  //Suggested by: Sir Russel Beceril
+            cashierpass = cashierpass.Replace("''", ""); //Suggested by: Sir Russel Beceril
             bool IsAuth = false;
             con.ConnectionString = conString;
             String sql = "SELECT * FROM cashieraccount WHERE cashieruser='" + cashieruser + "' AND cashierpass='" + cashierpass + "'";

@@ -98,7 +98,7 @@ namespace SalesMate
         public void updateItem(Int32 plu, string description, float price)
         {
             con.ConnectionString = conString;
-            String sql = "UPDATE cashieritem SET description='" + description + "', price=" + price + "";
+            String sql = "UPDATE cashieritem SET description='" + description + "', price=" + price + " WHERE plu=" + plu + "";
             try
             {
                 con.Open();
