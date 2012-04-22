@@ -26,3 +26,10 @@ Version 1.0.1
   - Project File Structure Implementation on UI (User Interface) where all Forms Dwelt
   - Main Class (Program.cs) Remains
   - Database File Included (salesmate.sql) Use MySQL 5.5.14 and Above
+  
+Version 1.0.2
+  - Changes in the codes in Items Class (Items.cs) changing data type from int to Int32
+  - Changes on frmPriceLookUp if txtLookPLU Textbox is none and it result to Clearing txtLookItemDes and txtLookPrice
+  - Update Item FIXED
+  - Added Parameters in All Classes under DAL to prevent SQL Injections and Attacks
+  
